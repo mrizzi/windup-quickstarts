@@ -37,9 +37,9 @@
 
     <scm>
         <tag>master</tag>
-        <connection>scm:git:https://github.com/windup/windup-quickstarts.git</connection>
-        <developerConnection>scm:git:git@github.com:windup/windup-quickstarts.git</developerConnection>
-        <url>http://github.com/windup/windup-quickstarts</url>
+        <connection>scm:git:https://github.com/mrizzi/windup-quickstarts.git</connection>
+        <developerConnection>scm:git:git@github.com:mrizzi/windup-quickstarts.git</developerConnection>
+        <url>http://github.com/mrizzi/windup-quickstarts</url>
     </scm>
 
 </project>
